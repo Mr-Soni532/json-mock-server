@@ -9,6 +9,11 @@
       "id": "3",
       "name": "Monkey",
       "age": 22
+    },
+    {
+      "email": "b@gmail.com",
+      "password": "candal",
+      "id": "IfQnnb9"
     }
   ]
 }
