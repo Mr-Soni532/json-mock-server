@@ -6,6 +6,27 @@
       "age": 2,
       "place": "Visakhapatnam",
       "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Gerimy",
+      "age": 2,
+      "place": "Delhi",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "name": "Chikku",
+      "age": 1,
+      "place": "Nepal",
+      "gender": "Female"
     }
   ]
 }
