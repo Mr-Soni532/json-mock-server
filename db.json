@@ -1,24 +1,11 @@
 {
-  "user": [
+  "dogs": [
     {
-      "id": "1",
-      "name": "Bhupender",
-      "age": "22"
-    },
-    {
-      "id": "3",
-      "name": "Monkey",
-      "age": 22
-    },
-    {
-      "email": "b@gmail.com",
-      "password": "candal",
-      "id": "IfQnnb9"
-    },
-    {
-      "email": "b@gmail.com",
-      "password": "candal",
-      "id": "8eFrraP"
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
     }
   ]
 }
